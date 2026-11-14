@@ -30,8 +30,8 @@ I am a fourth-year computer science student. I build data platforms end to end: 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Logistics Tracking Frontend](https://github.com/cheugs/frontend-logistic-tracking) | Parcel tracking application with separate dashboards for customers, delivery agents and administrators. | Angular · TypeScript |
-| [E-Quiz Admin Dashboard](https://github.com/cheugs/Quiz-app) | Administration dashboard for an online quiz platform. | Angular · TypeScript |
+| Logistics Tracking Frontend | Parcel tracking application with separate dashboards for customers, delivery agents and administrators. | Angular · TypeScript |
+| E-Quiz Admin Dashboard | Administration dashboard for an online quiz platform. | Angular · TypeScript |
 
 ---
 

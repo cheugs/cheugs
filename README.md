@@ -45,7 +45,7 @@ Projects owned by teammates or team organisations, where I was one of the contri
 | Gestion Immobilière | Property rental management application for three roles: super administrator, owner and tenant. | Built the Angular frontend (feature-based architecture, authentication, owner pages for room occupancy, arrears and reminders, tenant pages, contract and rent-receipt PDFs) and contributed backend features. | Angular · Java (Maven) · SQL |
 | MeetIn (team organisation) | Meeting-room booking system for companies. | Designed and built the admin side of the frontend (dashboard, user, room and booking management pages) and contributed backend features. | Angular · TypeScript · Java |
 | Online Reservation System (team of 4) | Web reservation application built with Spring Boot. | Worked on the page designs and user interface, and contributed backend features. | Spring Boot · Java · HTML |
-| EQuiz (team organisation) | Online quiz platform with a web admin dashboard, a mobile app and a backend. | Built the web admin dashboard (the standalone version is my [Quiz-app](https://github.com/cheugs/Quiz-app) repository) and contributed backend features. | Angular · TypeScript · JavaScript |
+| EQuiz (team organisation) | Online quiz platform with a web admin dashboard, a mobile app and a backend. | Built the web admin dashboard and contributed backend features. | Angular · TypeScript · JavaScript |
 | Smart City web application (private repository) | University group project: a Java web application for a smart city. | Contributed to the tourist section. | Java |
 
 ---
